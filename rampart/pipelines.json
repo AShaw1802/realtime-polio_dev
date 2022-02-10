@@ -8,7 +8,7 @@
             "config": " min_reads=50 min_pcent=0.01",
             "requires": [
                 {
-                    "file": "references.fasta",
+                    "file": "references_panEVCapsid.fasta",
                     "config_key": "references_file"
                 }
             ],
